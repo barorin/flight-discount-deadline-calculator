@@ -1,0 +1,2 @@
+# flight-discount-deadline-calculator
+ANAのSUPER VALUEとJALの先得割引の予約締切日を簡単に計算できるStreamlitアプリ
