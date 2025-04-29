@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 
 # アプリのタイトルと説明
-st.set_page_config(page_title="航空券割引締切日計算ツール", layout="wide")
+st.set_page_config(page_title="航空券割引締切日計算ツール", page_icon="✈️", layout="wide")
 
 st.title("ANA SUPER VALUEとJAL先得割引の締切日計算ツール")
 st.markdown("搭乗日と航空会社・割引プランを選択すると、予約締切日がわかります。")
