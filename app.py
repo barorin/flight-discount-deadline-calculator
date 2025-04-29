@@ -1,4 +1,3 @@
-%%writefile app.py
 import datetime
 
 import pandas as pd
